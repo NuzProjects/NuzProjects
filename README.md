@@ -27,25 +27,34 @@
 
 <p>
   <a href="https://github.com/NuzProjects">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
   <a href="https://celoai.org">
-    <img src="https://img.shields.io/badge/CeloAI-528BF5?style=for-the-badge&logo=openai&logoColor=white" alt="CeloAI"/>
+    <img
+      src="https://img.shields.io/badge/CeloAI-528BF5?style=for-the-badge&logo=openai&logoColor=white"
+      alt="CeloAI"
+    />
   </a>
 
   <a href="https://guns.lol/nuzflamev2">
-<a href="https://guns.lol/nuzflamev2">
-  <img
-    src="https://img.shields.io/badge/guns.lol-130F14?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNIDEzLjI0NCAwLjA4OSBMIDEyLjgwMCAwLjAwMCBMIDEyLjQ0NCAwLjA4OSBMIDEyLjE3OCAwLjM1NiBMIDEyLjAwMCAwLjM1NiBMIDExLjY0NCAwLjAwMCBMIDExLjExMSAwLjA4OSBMIDEwLjkzMyAwLjI2NyBMIDEwLjkzMyAwLjcxMSBMIDExLjExMSAwLjk3OCBMIDEwLjkzMyAxLjI0NCBMIDEwLjQwMCAxLjUxMSBMIDQuMDAwIDUuOTU2IEwgMS42MDAgNy40NjcgTCAxLjI0NCA3LjkxMSBMIDEuMzMzIDguNzExIEwgMi4xMzMgOS42MDAgTCAzLjExMSAxMS4xMTEgTCAzLjQ2NyAxMS4yODkgTCAzLjgyMiAxMS4yODkgTCA0LjUzMyAxMC44NDQgTCA0Ljk3OCAxMC44NDQgTCA1LjUxMSAxMS4yMDAgTCA2LjU3OCAxNC4xMzMgTCA3LjI4OSAxNS43MzMgTCA3LjQ2NyAxNS44MjIgTCA4LjI2NyAxNS43MzMgTCA5Ljg2NyAxNC41NzggTCAxMC4xMzMgMTQuNDg5IEwgMTAuNDg5IDE0LjEzMyBMIDEwLjU3OCAxMy40MjIgTCA5LjY4OSAxMS4zNzggTCA5LjYwMCAxMC44NDQgTCAxMS4yMDAgOS42ODkgTCAxMS43MzMgOS40MjIgTCAxMi4xNzggOC45NzggTCAxMi40NDQgOC40NDQgTCAxMi40NDQgOC4wODkgTCAxMS44MjIgNS45NTYgTCAxMi43MTEgNS4yNDQgTCAxMi44ODkgNC44MDAgTCAxMi44ODkgNC4xNzggTCAxMy4yNDQgMy44MjIgTCAxNC4zMTEgMy4yMDAgTCAxNC43NTYgMi42NjcgTCAxNC43NTYgMi4yMjIgTCAxNC40ODkgMS42ODkgWiBNIDEwLjkzMyA2LjY2NyBMIDExLjI4OSA3LjgyMiBMIDExLjI4OSA4LjM1NiBMIDkuMjQ0IDkuNzc4IEwgOC44ODkgOS4yNDQgTCA4LjUzMyA4LjA4OSBMIDEwLjc1NiA2LjY2NyBaIE0gMTIuMzU2IDIuNzU2IEwgMTIuMzU2IDMuMTExIEwgMTIuMDAwIDMuNDY3IEwgNi4wNDQgNy40NjcgTCA1LjE1NiA4LjE3OCBMIDMuODIyIDguOTc4IEwgMy41NTYgOC45NzggTCAzLjI4OSA4LjgwMCBMIDMuMjAwIDguMzU2IEwgMy41NTYgOC4wMDAgTCA5Ljk1NiAzLjczMyBMIDEwLjkzMyAyLjkzMyBMIDExLjY0NCAyLjQ4OSBMIDEyLjA4OSAyLjQ4OSBaIi8+PC9zdmc+&logoColor=white"
-    alt="guns.lol"
-  />
-</a>  </a>
+    <img
+      src="https://img.shields.io/badge/guns.lol-130F14?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNIDEzLjI0NCAwLjA4OSBMIDEyLjgwMCAwLjAwMCBMIDEyLjQ0NCAwLjA4OSBMIDEyLjE3OCAwLjM1NiBMIDEyLjAwMCAwLjM1NiBMIDExLjY0NCAwLjAwMCBMIDExLjExMSAwLjA4OSBMIDEwLjkzMyAwLjI2NyBMIDEwLjkzMyAwLjcxMSBMIDExLjExMSAwLjk3OCBMIDEwLjkzMyAxLjI0NCBMIDEwLjQwMCAxLjUxMSBMIDQuMDAwIDUuOTU2IEwgMS42MDAgNy40NjcgTCAxLjI0NCA3LjkxMSBMIDEuMzMzIDguNzExIEwgMi4xMzMgOS42MDAgTCAzLjExMSAxMS4xMTEgTCAzLjQ2NyAxMS4yODkgTCAzLjgyMiAxMS4yODkgTCA0LjUzMyAxMC44NDQgTCA0Ljk3OCAxMC44NDQgTCA1LjUxMSAxMS4yMDAgTCA2LjU3OCAxNC4xMzMgTCA3LjI4OSAxNS43MzMgTCA3LjQ2NyAxNS44MjIgTCA4LjI2NyAxNS43MzMgTCA5Ljg2NyAxNC41NzggTCAxMC4xMzMgMTQuNDg5IEwgMTAuNDg5IDE0LjEzMyBMIDEwLjU3OCAxMy40MjIgTCA5LjY4OSAxMS4zNzggTCA5LjYwMCAxMC44NDQgTCAxMS4yMDAgOS42ODkgTCAxMS43MzMgOS40MjIgTCAxMi4xNzggOC45NzggTCAxMi40NDQgOC40NDQgTCAxMi40NDQgOC4wODkgTCAxMS44MjIgNS45NTYgTCAxMi43MTEgNS4yNDQgTCAxMi44ODkgNC44MDAgTCAxMi44ODkgNC4xNzggTCAxMy4yNDQgMy44MjIgTCAxNC4zMTEgMy4yMDAgTCAxNC43NTYgMi42NjcgTCAxNC43NTYgMi4yMjIgTCAxNC40ODkgMS42ODkgWiBNIDEwLjkzMyA2LjY2NyBMIDExLjI4OSA3LjgyMiBMIDExLjI4OSA4LjM1NiBMIDkuMjQ0IDkuNzc4IEwgOC44ODkgOS4yNDQgTCA4LjUzMyA4LjA4OSBMIDEwLjc1NiA2LjY2NyBaIE0gMTIuMzU2IDIuNzU2IEwgMTIuMzU2IDMuMTExIEwgMTIuMDAwIDMuNDY3IEwgNi4wNDQgNy40NjcgTCA1LjE1NiA4LjE3OCBMIDMuODIyIDguOTc4IEwgMy41NTYgOC45NzggTCAzLjI4OSA4LjgwMCBMIDMuMjAwIDguMzU2IEwgMy41NTYgOC4wMDAgTCA5Ljk1NiAzLjczMyBMIDEwLjkzMyAyLjkzMyBMIDExLjY0NCAyLjQ4OSBMIDEyLjA4OSAyLjQ4OSBaIi8+PC9zdmc+&logoColor=white"
+      alt="guns.lol"
+    />
+  </a>
 
   <a href="https://discord.gg/y5zNz3fYpY">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
   </a>
 </p>
+
 
 ---
 
