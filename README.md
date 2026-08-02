@@ -31,11 +31,11 @@
   </a>
 
   <a href="https://celoai.org">
-    <img src="https://img.shields.io/badge/CeloAI.org-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CeloAI.org"/>
+    <img src="https://img.shields.io/badge/CeloAI-528BF5?style=for-the-badge&logo=openai&logoColor=white" alt="CeloAI"/>
   </a>
 
   <a href="https://guns.lol/nuzflamev2">
-    <img src="https://img.shields.io/badge/guns.lol-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="guns.lol"/>
+    <img src="https://img.shields.io/badge/guns.lol-130F14?style=for-the-badge&logo=gunicorn&logoColor=white" alt="guns.lol"/>
   </a>
 
   <a href="https://discord.gg/y5zNz3fYpY">
