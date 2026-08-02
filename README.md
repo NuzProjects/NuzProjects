@@ -34,6 +34,10 @@
     <img src="https://img.shields.io/badge/CeloAI.org-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CeloAI.org"/>
   </a>
 
+  <a href="https://guns.lol/nuzflamev2">
+    <img src="https://img.shields.io/badge/guns.lol-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="guns.lol"/>
+  </a>
+
   <a href="https://discord.gg/y5zNz3fYpY">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
