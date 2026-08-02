@@ -35,7 +35,7 @@
 
   <a href="https://celoai.org">
     <img
-      src="https://img.shields.io/badge/CeloAI-528BF5?style=for-the-badge&logo=openai&logoColor=white"
+      src="https://img.shields.io/badge/CeloAI-528BF5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIGQ9Ik0xOS44IDYuMkE5IDkgMCAxIDAgMjAuNyAxNiIvPgo8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzLjIiIGZpbGw9IiNmZmYiLz4KPC9zdmc%2B"
       alt="CeloAI"
     />
   </a>
