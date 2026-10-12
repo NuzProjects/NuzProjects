@@ -1,12 +1,9 @@
-<div align="center">
-
 # Hello, I'm NuzFlameV2 / NuzProjects!
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=25&duration=3200&pause=1100&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Learning+C%2B%2B+for+Robotics;Always+open+for+something+new%21;Developer+of+FreezeHost.pro"
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=25&duration=3200&pause=1100&color=FFFFFF&center=false&vCenter=true&width=650&height=50&lines=Learning+C%2B%2B+for+Robotics;Always+open+for+something+new%21"
   alt="Typing introduction"
 />
-</div>
 
 ---
 
@@ -32,24 +29,17 @@
     />
   </a>
 
-  <a href="https://freezehost.pro">
+  <a href="https://discord.gg/y5zNz3fYpY">
     <img
-      src="https://img.shields.io/badge/FreezeHost-2c67e8?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00LjUgM2g4djIuOGgtNXQxLjh2M2g0LjJ2Mi44aC00LjJ2NS44YTIgMiAwIDAgMS0uNiAxLjRsLTEuOCAxLjJWMyIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNMTQuOCAxMmgtMW0wIDB2LTdtMCAxNHYtN20wIDBsNi0zLjVtMCAwbS02IDMuNWw2IDMuNW0tNi0xMC41bC0xLjYgMS4zbTEuNi0xLjNsMS42IDEuM20wIDRsLTEuNiAxLjNtMS42LTEuM2wxLjYgMS4zbS0zLjIgMGwtMS42LTEuM20xLjYgMS4zbDEuNi0xLjNtLTMuMiA0bC0xLjYtMS4zbTEuNiAxLjNsMS42LTEuM20wIDRsLTEuNi0xLjNtMS42IDEuM2wxLjYtMS4zbS0zLjIgMGwtMS42IDEuM20xLjYtMS4zbDEuNiAxLjMiLz48L3N2Zz4=&logoColor=white"
-      alt="FreezeHost"
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
     />
   </a>
 
   <a href="https://guns.lol/nuzflamev2">
     <img
-      src="https://img.shields.io/badge/guns.lol-2596be?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNIDEzLjI0NCAwLjA4OSBMIDEyLjgwMCAwLjAwMCBMIDEyLjQ0NCAwLjA4OSBMIDEyLjE3OCAwLjM1NiBMIDEyLjAwMCAwLjM1NiBMIDExLjY0NCAwLjAwMCBMIDExLjExMSAwLjA4OSBMIDEwLjkzMyAwLjI2NyBMIDEwLjkzMyAwLjcxMSBMIDExLjExMSAwLjk3OCBMIDEwLjkzMyAxLjI0NCBMIDEwLjQwMCAxLjUxMSBMIDQuMDAwIDUuOTU2IEwgMS42MDAgNy40NjcgTCAxLjI0NCA3LjkxMSBMIDEuMzMzIDguNzExIEwgMi4xMzMgOS42MDAgTCAzLjExMSAxMS4xMTEgTCAzLjQ2NyAxMS4yODkgTCAzLjgyMiAxMS4yODkgTCA0LjUzMyAxMC44NDQgTCA0Ljk3OCAxMC44NDQgTCA1LjUxMSAxMS4yMDAgTCA2LjU3OCAxNC4xMzMgTCA3LjI4OSAxNS43MzMgTCA3LjQ2NyAxNS44MjIgTCA4LjI2NyAxNS43MzMgTCA5Ljg2NyAxNC41NzggTCAxMC4xMzMgMTQuNDg5IEwgMTAuNDg5IDE0LjEzMyBMIDEwLjU3OCAxMy40MjIgTCA5LjY4OSAxMS4zNzggTCA5LjYwMCAxMC44NDQgTCAxMS4yMDAgOS42ODkgTCAxMS43MzMgOS40MjIgTCAxMi4xNzggOC45NzggTCAxMi40NDQgOC40NDQgTCAxMi40NDQgOC4wODkgTCAxMS44MjIgNS45NTYgTCAxMi43MTEgNS4yNDQgTCAxMi44ODkgNC44MDAgTCAxMi44ODkgNC4xNzggTCAxMy4yNDQgMy44MjIgTCAxNC4zMTEgMy4yMDAgTCAxNC43NTYgMi42NjcgTCAxNC43NTYgMi4yMjIgTCAxNC40ODkgMS42ODkgWiBNIDEwLjkzMyA2LjY2NyBMIDExLjI4OSA3LjgyMiBMIDExLjI4OSA4LjM1NiBMIDkuMjQ0IDkuNzc4IEwgOC44ODkgOS4yNDQgTCA4LjUzMyA4LjA4OSBMIDEwLjc1NiA2LjY2NyBaIE0gMTIuMzU2IDIuNzU2IEwgMTIuMzU2IDMuMTExIEwgMTIuMDAwIDMuNDY3IEwgNi4wNDQgNy40NjcgTCA1LjE1NiA4LjE3OCBMIDMuODIyIDguOTc4IEwgMy41NTYgOC45NzggTCAzLjI4OSA4LjgwMCBMIDMuMjAwIDguMzU2IEwgMy41NTYgOC4wMDAgTCA5Ljk1NiAzLjczMyBMIDEwLjkzMyAyLjkzMyBMIDExLjY0NCAyLjQ4OSBMIDEyLjA4OSAyLjQ4OSBaIi8+PC9zdmc+&logoColor=white"
+      src="https://img.shields.io/badge/guns.lol-2a1a2b?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNIDEzLjI0NCAwLjA4OSBMIDEyLjgwMCAwLjAwMCBMIDEyLjQ0NCAwLjA4OSBMIDEyLjE3OCAwLjM1NiBMIDEyLjAwMCAwLjM1NiBMIDExLjY0NCAwLjAwMCBMIDExLjExMSAwLjA4OSBMIDEwLjkzMyAwLjI2NyBMIDEwLjkzMyAwLjcxMSBMIDExLjExMSAwLjk3OCBMIDEwLjkzMyAxLjI0NCBMIDEwLjQwMCAxLjUxMSBMIDQuMDAwIDUuOTU2IEwgMS42MDAgNy40NjcgTCAxLjI0NCA3LjkxMSBMIDEuMzMzIDguNzExIEwgMi4xMzMgOS42MDAgTCAzLjExMSAxMS4xMTEgTCAzLjQ2NyAxMS4yODkgTCAzLjgyMiAxMS4yODkgTCA0LjUzMyAxMC44NDQgTCA0Ljk3OCAxMC44NDQgTCA1LjUxMSAxMS4yMDAgTCA2LjU3OCAxNC4xMzMgTCA3LjI4OSAxNS43MzMgTCA3LjQ2NyAxNS44MjIgTCA4LjI2NyAxNS43MzMgTCA5Ljg2NyAxNC41NzggTCAxMC4xMzMgMTQuNDg5IEwgMTAuNDg5IDE0LjEzMyBMIDEwLjU3OCAxMy40MjIgTCA5LjY4OSAxMS4zNzggTCA5LjYwMCAxMC44NDQgTCAxMS4yMDAgOS42ODkgTCAxMS43MzMgOS40MjIgTCAxMi4xNzggOC45NzggTCAxMi40NDQgOC40NDQgTCAxMi40NDQgOC4wODkgTCAxMS44MjIgNS45NTYgTCAxMi43MTEgNS4yNDQgTCAxMi44ODkgNC44MDAgTCAxMi44ODkgNC4xNzggTCAxMy4yNDQgMy44MjIgTCAxNC4zMTEgMy4yMDAgTCAxNC43NTYgMi42NjcgTCAxNC43NTYgMi4yMjIgTCAxNC40ODkgMS42ODkgWiBNIDEwLjkzMyA2LjY2NyBMIDExLjI4OSA3LjgyMiBMIDExLjI4OSA4LjM1NiBMIDkuMjQ0IDkuNzc4IEwgOC44ODkgOS4yNDQgTCA4LjUzMyA4LjA4OSBMIDEwLjc1NiA2LjY2NyBaIE0gMTIuMzU2IDIuNzU2IEwgMTIuMzU2IDMuMTExIEwgMTIuMDAwIDMuNDY3IEwgNi4wNDQgNy40NjcgTCA1LjE1NiA4LjE3OCBMIDMuODIyIDguOTc4IEwgMy41NTYgOC45NzggTCAzLjI4OSA4LjgwMCBMIDMuMjAwIDguMzU2IEwgMy41NTYgOC4wMDAgTCA5Ljk1NiAzLjczMyBMIDEwLjkzMyAyLjkzMyBMIDExLjY0NCAyLjQ4OSBMIDEyLjA4OSAyLjQ4OSBaIi8+PC9zdmc+&logoColor=white"
       alt="guns.lol"
-    />
-  </a>
-
-  <a href="https://discord.gg/y5zNz3fYpY">
-    <img
-      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
     />
   </a>
 </p>
