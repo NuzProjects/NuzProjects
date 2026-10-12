@@ -10,11 +10,20 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=300&height=35&lines=Languages" alt="Languages" />
 
 <p>
-  <span style="border-radius: 8px; overflow: hidden; display: inline-block;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></span>
-  <span style="border-radius: 8px; overflow: hidden; display: inline-block;"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></span>
-  <span style="border-radius: 8px; overflow: hidden; display: inline-block;"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></span>
-  <span style="border-radius: 8px; overflow: hidden; display: inline-block;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></span>
-  <span style="border-radius: 8px; overflow: hidden; display: inline-block;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></span>
+  <!-- Python -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='32' viewBox='0 0 100 32'><rect rx='8' width='100' height='32' fill='%233776AB'/><text x='50' y='21' fill='white' font-family='Space Grotesk, sans-serif' font-size='13' font-weight='700' text-anchor='middle'>PYTHON</text></svg>" alt="Python" />
+
+  <!-- C++ -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='75' height='32' viewBox='0 0 75 32'><rect rx='8' width='75' height='32' fill='%2300599C'/><text x='37.5' y='21' fill='white' font-family='Space Grotesk, sans-serif' font-size='13' font-weight='700' text-anchor='middle'>C++</text></svg>" alt="C++" />
+
+  <!-- TypeScript -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='125' height='32' viewBox='0 0 125 32'><rect rx='8' width='125' height='32' fill='%233178C6'/><text x='62.5' y='21' fill='white' font-family='Space Grotesk, sans-serif' font-size='13' font-weight='700' text-anchor='middle'>TYPESCRIPT</text></svg>" alt="TypeScript" />
+
+  <!-- JavaScript -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='125' height='32' viewBox='0 0 125 32'><rect rx='8' width='125' height='32' fill='%23F7DF1E'/><text x='62.5' y='21' fill='%23000000' font-family='Space Grotesk, sans-serif' font-size='13' font-weight='700' text-anchor='middle'>JAVASCRIPT</text></svg>" alt="JavaScript" />
+
+  <!-- HTML5 -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='90' height='32' viewBox='0 0 90 32'><rect rx='8' width='90' height='32' fill='%23E34F26'/><text x='45' y='21' fill='white' font-family='Space Grotesk, sans-serif' font-size='13' font-weight='700' text-anchor='middle'>HTML5</text></svg>" alt="HTML5" />
 </p>
 
 ---
@@ -23,30 +32,15 @@
 
 <p>
   <a href="https://github.com/NuzProjects">
-    <span style="border-radius: 8px; overflow: hidden; display: inline-block;">
-      <img
-        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-        alt="GitHub"
-      />
-    </span>
+    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='32' viewBox='0 0 100 32'><rect rx='8' width='100' height='32' fill='%23181717'/><text x='50' y='21' fill='white' font-family='Space Grotesk, sans-serif' font-size='13' font-weight='700' text-anchor='middle'>GITHUB</text></svg>" alt="GitHub" />
   </a>
 
   <a href="https://discord.gg/y5zNz3fYpY">
-    <span style="border-radius: 8px; overflow: hidden; display: inline-block;">
-      <img
-        src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-        alt="Discord"
-      />
-    </span>
+    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='110' height='32' viewBox='0 0 110 32'><rect rx='8' width='110' height='32' fill='%235865F2'/><text x='55' y='21' fill='white' font-family='Space Grotesk, sans-serif' font-size='13' font-weight='700' text-anchor='middle'>DISCORD</text></svg>" alt="Discord" />
   </a>
 
   <a href="https://guns.lol/nuzflamev2">
-    <span style="border-radius: 8px; overflow: hidden; display: inline-block;">
-      <img
-        src="https://img.shields.io/badge/guns.lol-2a1a2b?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNIDEzLjI0NCAwLjA4OSBMIDEyLjgwMCAwLjAwMCBMIDEyLjQ0NCAwLjA4OSBMIDEyLjE3OCAwLjM1NiBMIDEyLjAwMCAwLjM1NiBMIDExLjY0NCAwLjAwMCBMIDExLjExMSAwLjA4OSBMIDEwLjkzMyAwLjI2NyBMIDEwLjkzMyAwLjcxMSBMIDExLjExMSAwLjk3OCBMIDEwLjkzMyAxLjI0NCBMIDEwLjQwMCAxLjUxMSBMIDQuMDAwIDUuOTU2IEwgMS42MDAgNy40NjcgTCAxLjI0NCA3LjkxMSBMIDEuMzMzIDguNzExIEwgMi4xMzMgOS42MDAgTCAzLjExMSAxMS4xMTEgTCAzLjQ2NyAxMS4yODkgTCAzLjgyMiAxMS4yODkgTCA0LjUzMyAxMC44NDQgTCA0Ljk3OCAxMC44NDQgTCA1LjUxMSAxMS4yMDAgTCA2LjU3OCAxNC4xMzMgTCA3LjI4OSAxNS43MzMgTCA3LjQ2NyAxNS44MjIgTCA4LjI2NyAxNS43MzMgTCA5Ljg2NyAxNC41NzggTCAxMC4xMzMgMTQuNDg5IEwgMTAuNDg5IDE0LjEzMyBMIDEwLjU3OCAxMy40MjIgTCA5LjY4OSAxMS4zNzggTCA5LjYwMCAxMC44NDQgTCAxMS4yMDAgOS42ODkgTCAxMS43MzMgOS40MjIgTCAxMi4xNzggOC45NzggTCAxMi40NDQgOC40NDQgTCAxMi40NDQgOC4wODkgTCAxMS44MjIgNS45NTYgTCAxMi43MTEgNS4yNDQgTCAxMi44ODkgNC44MDAgTCAxMi44ODkgNC4xNzggTCAxMy4yNDQgMy44MjIgTCAxNC4zMTEgMy4yMDAgTCAxNC43NTYgMi42NjcgTCAxNC43NTYgMi4yMjIgTCAxNC40ODkgMS42ODkgWiBNIDEwLjkzMyA2LjY2NyBMIDExLjI4OSA3LjgyMiBMIDExLjI4OSA4LjM1NiBMIDkuMjQ0IDkuNzc4IEwgOC44ODkgOS4yNDQgTCA4LjUzMyA4LjA4OSBMIDEwLjc1NiA2LjY2NyBaIE0gMTIuMzU2IDIuNzU2IEwgMTIuMzU2IDMuMTExIEwgMTIuMDAwIDMuNDY3IEwgNi4wNDQgNy40NjcgTCA1LjE1NiA4LjE3OCBMIDMuODIyIDguOTc4IEwgMy41NTYgOC45NzggTCAzLjI4OSA4LjgwMCBMIDMuMjAwIDguMzU2IEwgMy41NTYgOC4wMDAgTCA5Ljk1NiAzLjczMyBMIDEwLjkzMyAyLjkzMyBMIDExLjY0NCAyLjQ4OSBMIDEyLjA4OSAyLjQ4OSBaIi8+PC9zdmc+&logoColor=white"
-        alt="guns.lol"
-      />
-    </span>
+    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='110' height='32' viewBox='0 0 110 32'><rect rx='8' width='110' height='32' fill='%232A1A2B'/><text x='55' y='21' fill='white' font-family='Space Grotesk, sans-serif' font-size='13' font-weight='700' text-anchor='middle'>GUNS.LOL</text></svg>" alt="guns.lol" />
   </a>
 </p>
 
@@ -83,11 +77,9 @@
 
 <div align="center">
 
-<span style="border-radius: 8px; overflow: hidden; display: inline-block;">
-  <img
-    src="https://komarev.com/ghpvc/?username=NuzProjects&style=for-the-badge&color=58A6FF&label=Profile+Views"
-    alt="Profile views"
-  />
-</span>
+<img
+  src="https://komarev.com/ghpvc/?username=NuzProjects&style=flat&color=58A6FF&label=Profile+Views"
+  alt="Profile views"
+/>
 
 </div>
