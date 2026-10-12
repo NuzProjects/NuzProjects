@@ -1,13 +1,13 @@
-# Hello, I'm NuzFlameV2 / NuzProjects!
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=650&height=45&lines=Hello%2C+I'm+NuzFlameV2+%2F+NuzProjects!" alt="Header" />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=25&duration=3200&pause=1100&color=FFFFFF&center=false&vCenter=true&width=650&height=50&lines=Learning+C%2B%2B+for+Robotics;Always+open+for+something+new%21"
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&duration=3200&pause=1100&color=8B949E&center=false&vCenter=true&width=650&height=40&lines=Administrator+%40+FreezeHost.pro;Contact+Me+%40+nuzflamev2%40freezehost.pro;Minecraft%2C+NodeJS%2C+Python+Server+Hosting"
   alt="Typing introduction"
 />
 
 ---
 
-## Languages
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=300&height=35&lines=Languages" alt="Languages" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -19,7 +19,7 @@
 
 ---
 
-## Socials
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=300&height=35&lines=Socials" alt="Socials" />
 
 <p>
   <a href="https://github.com/NuzProjects">
@@ -46,7 +46,7 @@
 
 ---
 
-## My Activity
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=300&height=35&lines=My+Activity" alt="My Activity" />
 
 <div align="center">
 
