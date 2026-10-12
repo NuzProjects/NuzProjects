@@ -3,7 +3,7 @@
 # Hello, I'm NuzFlameV2 / NuzProjects!
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=25&duration=3200&pause=1100&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Learning+C%2B%2B+for+Robotics;Always+open+for+something+new%21;Developer+of+CeloAI.org"
+  src="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=25&duration=3200&pause=1100&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Learning+C%2B%2B+for+Robotics;Always+open+for+something+new%21;Developer+of+FreezeHost.pro"
   alt="Typing introduction"
 />
 </div>
@@ -32,10 +32,10 @@
     />
   </a>
 
-  <a href="https://celoai.org">
+  <a href="https://freezehost.pro">
     <img
-      src="https://img.shields.io/badge/CeloAI-528BF5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIGQ9Ik0xOS44IDYuMkE5IDkgMCAxIDAgMjAuNyAxNiIvPgo8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzLjIiIGZpbGw9IiNmZmYiLz4KPC9zdmc%2B"
-      alt="CeloAI"
+      src="https://img.shields.io/badge/FreezeHost-00A4EF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik00IDRoNnY2SDR6IiBmaWxsPSJub25lIi8%2BPHBhdGggZD0iTTQgNGg3djRIN2g0djEyaC0zVjEySDR6Ii8%2BPHBhdGggZD0iTTE2IDJ2MjBNMTMgNWw2IDZtMC02bC02IDZNMTEgMTJsMTAgME0xMyAxOWw2LTZtMCA2bC02LTYiLz48L3N2Zz4%3D&logoColor=white"
+      alt="FreezeHost"
     />
   </a>
 
