@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=1&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=650&height=45&lines=Hello%2C+I'm+NuzFlameV2+%2F+NuzProjects!" alt="Header" />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&duration=3200&pause=1100&color=8B949E&center=false&vCenter=true&width=650&height=40&lines=Administrator+%40+FreezeHost.pro;Contact+Me+%40+nuzflamev2%40freezehost.pro;Minecraft%2C+NodeJS%2C+Python+Server+Hosting"
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&duration=3200&pause=1100&color=8B949E&center=false&vCenter=true&width=650&height=40&lines=Contact+Me+%40+contact%40madebynuz.dev;United+States+of+America;Developer+of+Astra"
   alt="Typing introduction"
 />
 
